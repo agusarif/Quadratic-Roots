@@ -1,0 +1,17 @@
+Quadratic-Roots
+~~~~~~~~~~~~~~~
+A programming project to built a Javascript that could compute the two roots
+of a quadratic equation. The standard form of a quadratic equation which is used here:
+				A x^2 + B x + C = 0
+
+The script will ask a user to supply the values of the three coefficients A,
+B, and C. And then, it will display the appropriate roots of the quadratic equation. Lastly, the script offers a chance for the user to validate the
+computed solutions.
+
+Instaling
+~~~~~~~~~
+
+Running
+~~~~~~~
+
+Agus Arif, 08-10-2011.
